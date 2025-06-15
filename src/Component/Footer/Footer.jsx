@@ -9,9 +9,9 @@ const Footer = () => {
 </footer>
 
        <h3>SolarBright Nigeria</h3>
-        <p><strong>Phone:</strong> +234 800 123 4567</p>
+        <p><strong>Phone:</strong> +234 810 950 0453</p>
         <p><strong>Email:</strong> info@solarbright.com.ng</p>
-        <p><strong>Address:</strong> 123 Energy Avenue, Lagos, Nigeria</p>
+        <p><strong>Address:</strong> 56 Akobo Avenue, Ibadan, Nigeria</p>
         <p><strong>Open:</strong> Mon–Sat: 8am – 6pm</p> 
       
       
