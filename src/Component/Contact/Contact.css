@@ -61,7 +61,12 @@
   cursor: pointer;
   transition: background 0.4s;
 }
-
+ 
+.contact-form button svg {
+  margin-left: 8px;
+   font-size:  18px;
+   vertical-align: middle;
+}
 
 .contact-form button:hover {
   background-color: #e69900;
@@ -104,4 +109,8 @@
 
 .contact-info a:hover {
   color: #f9a825;
+}
+
+.contact-form span{
+  margin-top: 10px;
 }
